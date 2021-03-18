@@ -17,5 +17,3 @@
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/MentoHUST-OpenWrt-ipk
 git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
-git clone https://github.com/maxlicheng/luci-app-unblockmusic.git package/luci-app-unblockmusic
-git clone https://github.com/cnsilvan/UnblockNeteaseMusic.git package/UnblockNeteaseMusic
